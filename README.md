@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mariiaclaran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mariiaclaran/mariiaclaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Sobre mim
+- 👋 Olá, meu nome é @mariiaclaran
+- 👀 Eu estou interessada em aprender a programar
+- 🌱 Meu email para contato é clarado.nascimento@escola.pr.gov.br
+- 💞️ Estou no primeiro ano do novo ensino médio.
